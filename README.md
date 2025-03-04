@@ -1,4 +1,5 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
+<h1>Juego del sorteo de un amigo </h1>
+
 let amigos = [];
 
 function agregarAmigo() {
